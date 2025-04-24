@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>박보검 배우 팬 사이트</title>
+    <title>박보검 배우</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -39,7 +39,6 @@
             background-color: #2e2e2e;
             color: white;
             text-align: center;
-            padding: 10px;
             position: fixed;
             bottom: 0;
             width: 100%;
