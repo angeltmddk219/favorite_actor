@@ -54,7 +54,7 @@
 
 <section class="profile">
     <h2>박보검 프로필</h2>
-    <img src="https://example.com/parkbogum.jpg" alt="박보검 배우">
+    <img src="https://i.namu.wiki/i/B8Ovom-k000KiXd7xVN2p5mCUfuAV0KiLMr0ZRSGKfa2l3EorIHL-e7effcMIvz78tBN7_-aGxwBTz2l2Thjml82SbEq7an4BGn-LnxgS7imLr5O3q2tHgRor08YhrGG5lJAS-vB2evXKXBJrFpBWA.webp" alt="박보검 배우">
     <p>박보검은 대한민국의 배우로, '응답하라 1988', '남자친구' 등에서 활약한 인기 배우입니다.</p>
 </section>
 
