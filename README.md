@@ -66,7 +66,7 @@
 </section>
 
 <footer>
-    <p>&copy; 2025 박보검 팬 사이트. 모든 권리 보유.</p>
+    <p>&copy; 박보검 나무위키.</p>
 </footer>
 
 </body>
