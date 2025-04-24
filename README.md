@@ -60,7 +60,7 @@
 
 <section class="gallery">
     <h2>박보검 사진 갤러리</h2>
-    <img src="https://example.com/parkbogum1.jpg" alt="박보검 사진 1">
+    <img src="parkbogum1" alt="박보검 사진 1">
     <img src="https://example.com/parkbogum2.jpg" alt="박보검 사진 2">
     <img src="https://example.com/parkbogum3.jpg" alt="박보검 사진 3">
 </section>
